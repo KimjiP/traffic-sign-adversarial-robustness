@@ -1,0 +1,21 @@
+# Data & model artifacts (not committed — see README "Reproducing this")
+*.h5
+*.keras
+*.pkl
+*.pickle
+gtsrb+dit/
+checkpoints/
+*.npy
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

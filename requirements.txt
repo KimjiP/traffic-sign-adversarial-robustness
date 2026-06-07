@@ -1,0 +1,13 @@
+# Core ML
+tensorflow>=2.10,<2.16
+numpy
+scikit-learn
+
+# Adversarial attacks
+adversarial-robustness-toolbox
+
+# Data & visualization
+pandas
+matplotlib
+opencv-python
+tqdm
